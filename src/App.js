@@ -49,7 +49,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1> A simple Todo </h1>
+        <h1> 42 scheduler </h1>
       </header>
       <Form
         filterHandler={filterHandler}
